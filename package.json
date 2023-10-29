@@ -23,5 +23,8 @@
 		"vite": "^4.4.2",
 		"vitest": "^0.32.2"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"zod-form-data": "^2.0.2"
+	}
 }
